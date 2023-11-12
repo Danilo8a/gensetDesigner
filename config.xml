@@ -1,0 +1,82 @@
+<root>
+    <projects>
+        </projects>
+    <img scr="./img">
+        <resource name="add.png" />
+        <resource name="add_db.png" />
+        <resource name="AGREGAR.ico" />
+        <resource name="anterior_loads.png" />
+        <resource name="ayuda.png" />
+        <resource name="bombilla.png" />
+        <resource name="cerrar.png" />
+        <resource name="cerrar_white.png" />
+        <resource name="chart.png" />
+        <resource name="cogs-on-wheels-interface-symbol-for-settings-edition-button.png" />
+        <resource name="comprobar.png" />
+        <resource name="copo-de-nieve.png" />
+        <resource name="curva_capacidad.png" />
+        <resource name="data_base_icon.png" />
+        <resource name="DELETE.ico" />
+        <resource name="delete_db.png" />
+        <resource name="delete_list_card.png" />
+        <resource name="dialog_error_icon.png" />
+        <resource name="dialog_information_icon.png" />
+        <resource name="dialog_question_icon.png" />
+        <resource name="dialog_warn_icon.png" />
+        <resource name="down-arrow.png" />
+        <resource name="down.png" />
+        <resource name="down_arrow_white.png" />
+        <resource name="electric-generator (1).png" />
+        <resource name="error.png" />
+        <resource name="exclamacion.png" />
+        <resource name="generator (1).png" />
+        <resource name="generator (2).png" />
+        <resource name="gen_icon.png" />
+        <resource name="home (1).png" />
+        <resource name="home-sign.png" />
+        <resource name="lineal.png" />
+        <resource name="load.gif" />
+        <resource name="logo.png" />
+        <resource name="logo_1.png" />
+        <resource name="logo_2.png" />
+        <resource name="logo_3.png" />
+        <resource name="logo_4.png" />
+        <resource name="logo_5.png" />
+        <resource name="logo_6.png" />
+        <resource name="logo_7.png" />
+        <resource name="man-shape.png" />
+        <resource name="minimizar.png" />
+        <resource name="motor-electrico.png" />
+        <resource name="non_linear.png" />
+        <resource name="no_icon_select.png" />
+        <resource name="Polo liso.png" />
+        <resource name="Polo liso_b.png" />
+        <resource name="Polo saliente.png" />
+        <resource name="Polo saliente_b.png" />
+        <resource name="pregunta.png" />
+        <resource name="Recurso 3.png" />
+        <resource name="Recurso 4.png" />
+        <resource name="Recurso 6.png" />
+        <resource name="Recurso 8.png" />
+        <resource name="resistencia (1).png" />
+        <resource name="siguiente_loads.png" />
+        <resource name="siguiente_loads_white.png" />
+        <resource name="teis1.png" />
+        <resource name="tesis.png" />
+        <resource name="tools.png" />
+    </img>
+    <user-data registered="false">
+        <first-name value="Jimmy" />
+        <last-name value="Rincones" />
+        <institution value="Maldita Universidad" />
+        <profession value="Inyenairum" />
+        <email value="elguebomio@gmail.com" />
+        <country value="Venezuela" />
+        <executions value="189" />
+    </user-data>
+    <last-curve url="" type="salient">
+        <cylindrical pa="1.0" fp="0.8" tmc="2.950784843201542" pe="0.02" vpu="True" vn="1.0" rs="2.15" pm="0.8" ps="0.02" />
+        <salient pa="1" fp="0.85" tmc="2.9893842141490983" pe="0.02" vpu="True" vn="1" rd="2.34" rq="2.15" pm="1" ps="0.02" rs="2.12" />
+    </last-curve>
+    <last-dim url="" />
+</root>

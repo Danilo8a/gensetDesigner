@@ -1,0 +1,13 @@
+img/
+dist
+cosas
+build
+*.rar
+*.ico
+gensets.db.db
+gensets.db.db.db
+*.spec
+*.pdf
+prueba.py
+prueba_de_siguiente.py
+*.txt
